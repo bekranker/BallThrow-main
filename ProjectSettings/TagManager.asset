@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ball
+  - Bucket
+  - Restart
+  - GameMusic
+  - GameSound
+  - Wall
+  - Cans
+  - Ground
+  - Wood
+  - Boxes
+  - Environment
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sun
+    uniqueID: 4236656537
+    locked: 0
+  - name: Clouth
+    uniqueID: 1222069709
+    locked: 0
+  - name: Mountains
+    uniqueID: 4120449011
+    locked: 0
+  - name: TutorialCanvas
+    uniqueID: 3199578573
+    locked: 0
+  - name: Rock1
+    uniqueID: 374411251
+    locked: 0
+  - name: PlayerParticle
+    uniqueID: 1420695265
+    locked: 0
+  - name: Rock2
+    uniqueID: 2295191223
+    locked: 0
+  - name: Grass
+    uniqueID: 3001274601
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: WindParticle
+    uniqueID: 7493613
+    locked: 0
+  - name: Ground
+    uniqueID: 3238315617
+    locked: 0
+  - name: Canvas
+    uniqueID: 155281901
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
